@@ -1,0 +1,28 @@
+Calculations :
+
+Design a USBR stilling basin II for an overflow spillway with the following data:
+Design discharge (in cumec)										
+TW level 	(in meter)										
+Basin width	(in cumec)										
+Elevation of ground	(in meter)									
+Velocity at the foot of the spillway	(in meter/sec)						
+
+8.5  Procedure
+i) Determine the initial depth h1 using the eqn h1= Q/BU1	(in meter)		         
+ii)Find the upstream Froude number Fr1.							
+iii)  Compute the sequent depth h2 using the formula  h2/h1 = 1/2 (√(1+8Fr_1^2 )-1)     
+iv)  Check the sequent depth and tailwater level and adjust them with safety 
+      margin.
+v)  Determine the length of basin (L), width, height and spacing of chute blocks and 
+     dentated sills using the formulas given in Fig. 1 and Fig. 2 and show them in 
+     neat sketches.
+
+Results  :
+
+	Design discharge (Q) 	(in cumec)								
+	TW level (ht)	(in meter)								
+	Initial depth 	(h1)	(in meter)							
+	Froude number (Fr1)								
+	Sequent depth (h2)	(in meter)							
+	Floor elevation	Length of basin (L)	(in meter)					
+						
